@@ -91,7 +91,7 @@ const Carousel = () => (
               </li>
               <li>
                 <h5 className="slideText">
-                  The prosses begins with a conversation
+                  The process begins with a conversation
                 </h5>
               </li>
               <br />
