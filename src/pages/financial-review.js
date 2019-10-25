@@ -25,7 +25,7 @@ const Review = () => (
         <p className="text">
           Most people assume if they have no money then they don’t need a
           financial review but these are the people who need the review the most
-          – people with this frame of mind will go through life just getting buy
+          – people with this frame of mind will go through life just getting by
           or scraping the bottom of the barrel, so to speak.
           <br />
           <br />
