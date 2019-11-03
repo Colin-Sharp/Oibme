@@ -14,6 +14,13 @@ class Header extends React.Component {
   }
   render() {
     const { sideDrawerOpen } = this.state
+    if (
+      "querySelector" in document &&
+      "localStorage" in window &&
+      "addEventListener" in window
+    ) {
+      // bootstrap the javascript application
+    }
     return (
       <div className="toolbar">
         <div
